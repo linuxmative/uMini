@@ -97,6 +97,8 @@ Feel free to open issues or submit pull requests with improvements, ideas, or bu
 
 ----------
 
-## 📧 Contact
+## 📬 Author
 
-For any questions or feedback, open a GitHub issue or contact via the [GitHub profile](https://github.com/linuxmative).
+**Maksym Titenko** [@titenko](https://github.com/titenko)  
+GitHub: [@linuxmative](https://github.com/linuxmative)  
+Website: [linuxmative.github.io](https://linuxmative.github.io)
