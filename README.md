@@ -1,5 +1,4 @@
-
-# uMini: A Minimal Ubuntu-based Live ISO Builder
+#🧱 uMini: A Minimal Ubuntu-based Live ISO Builder
 
 **uMini** is a minimalist live ISO image built from the ground up using official Ubuntu repositories (currently based on Ubuntu 24.04 "Noble Numbat").  
 This project provides a script that assembles a bootable ISO image suitable for legacy BIOS and UEFI systems, with a text-based autologin session and basic network tools preinstalled.
