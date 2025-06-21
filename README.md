@@ -40,7 +40,7 @@ sudo apt install debootstrap xorriso syslinux-utils squashfs-tools grub-pc-bin g
 
 ## 📦 Download Prebuilt ISO
 
-A prebuilt ISO is available under the [Releases section](https://github.com/linuxmative/uMini/releases).  
+A prebuilt ISO is available under the [Releases section](https://github.com/linuxmative/uMini-Custom-Ubuntu-Based-Live-ISO-Builder/releases).  
 You can test the live image on real hardware or in a virtual machine (e.g., VirtualBox or QEMU).
 
 ----------
