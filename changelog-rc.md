@@ -2,7 +2,7 @@
 
 ## Version RC (Release Candidate)
 
-## Script Version: 0.0.2-rc
+### Script Version: 0.0.2-rc
 
 ### 🚀 Major Improvements
 
